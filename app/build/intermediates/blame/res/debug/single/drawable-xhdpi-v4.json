@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_previous.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_next.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_screen_locked_to_landscape.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_screen_locked_to_landscape.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_pause.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_play.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_hsbs.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\CardboardVideoPlayer-master2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_hsbs.png"
+    }
+]

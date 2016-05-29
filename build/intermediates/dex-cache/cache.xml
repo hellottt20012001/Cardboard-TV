@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\CardboardVideoPlayer-master2\app\libs\cardboard.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7800973ef52ae629978ad974370b6a0b9bc79e25">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\CardboardVideoPlayer-master2\app\build\intermediates\pre-dexed\debug\cardboard_4b8af192dd7c128426848b01865ae4a384f2880b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\CardboardVideoPlayer-master2\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\CardboardVideoPlayer-master2\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_8a31e7f69dabb3d8e2a9a5616a8d1f728223ec3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\CardboardVideoPlayer-master2\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\CardboardVideoPlayer-master2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_d725ffab0445c73f1a95fea73bbcdac5afc146ff.jar" />
+    </item>
+    <item
+        jar="F:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\CardboardVideoPlayer-master2\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_7564e89673f2202daed2bc983922f54726b74aa9.jar" />
+    </item>
+
+</items>
